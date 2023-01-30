@@ -17,4 +17,9 @@
  12 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/defanging-an-ip-address/submissions/860612884/)
  13 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/860619296/)
  14 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/jewels-and-stones/submissions/861209040/)
- 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
+ 15 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/861711635/)
+ 16 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/shuffle-string/submissions/862204965/)
+ 17 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/goal-parser-interpretation/submissions/862217963/)
+ 
+ 
+  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
