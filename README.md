@@ -20,6 +20,6 @@
  15 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/861711635/)
  16 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/shuffle-string/submissions/862204965/)
  17 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/goal-parser-interpretation/submissions/862217963/)
- 
- 
-  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
+ 18 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/862234483/) 
+ 19 | [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/decode-the-message/submissions/862776937/)
+ 20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
