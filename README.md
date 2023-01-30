@@ -1,4 +1,8 @@
 # Leetcode-Solved-questions
+Easy : 22
+
+Medium : 2
+
 
 ## Problems
  **#** | **Name** | **Difficulty** | **Solved** 
