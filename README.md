@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 22
+Easy : 32
 
-Medium : 2
+Medium : 4
 
 
 ## Problems
@@ -42,4 +42,5 @@ Medium : 2
  33 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/867625898/)
  34 | [2023. Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/submissions/868175933/)
  35 | [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/rearrange-words-in-a-sentence/submissions/868209532/)
+ 36 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/merge-strings-alternately/submissions/868654637/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
