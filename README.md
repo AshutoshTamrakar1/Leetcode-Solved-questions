@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 32
+Easy : 40
 
 Medium : 4
 
