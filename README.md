@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 40
+Easy : 45
 
-Medium : 4
+Medium : 5
 
 
 ## Problems
@@ -54,4 +54,7 @@ Medium : 4
  45 | [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/submissions/872808659/)
  46 | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/encode-and-decode-tinyurl/submissions/873465363/)
  47 | [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/occurrences-after-bigram/submissions/874237162/)
+ 48 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/reformat-date/submissions/874884363/)
+ 49 | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-segments-in-a-string/submissions/875568620/)
+ 50 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/length-of-last-word/submissions/875569868/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
