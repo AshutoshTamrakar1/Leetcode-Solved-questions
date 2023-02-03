@@ -57,4 +57,7 @@ Medium : 5
  48 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/reformat-date/submissions/874884363/)
  49 | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-segments-in-a-string/submissions/875568620/)
  50 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/length-of-last-word/submissions/875569868/)
+  51 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/convert-the-temperature/submissions/876274105/)
+  52 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-two-integers/submissions/876917814/)
+  53 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-good-pairs/submissions/876940103/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
