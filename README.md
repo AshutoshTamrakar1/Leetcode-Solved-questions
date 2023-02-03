@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 45
+Easy : 54
 
-Medium : 5
+Medium : 6
 
 
 ## Problems
@@ -63,4 +63,8 @@ Medium : 5
  54 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/smallest-even-multiple/submissions/877549814/)
  55 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/878134923/)
  56 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/concatenation-of-array/submissions/878699062/)
+57 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/879309579/)
+58 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/879336500/)
+59 | [66. Plus One](https://leetcode.com/problems/plus-one/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/plus-one/submissions/880072566/)
+60 | [2079. Watering Plants](https://leetcode.com/problems/watering-plants/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/watering-plants/submissions/880097825/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
