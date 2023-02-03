@@ -60,4 +60,7 @@ Medium : 5
   51 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/convert-the-temperature/submissions/876274105/)
   52 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-two-integers/submissions/876917814/)
   53 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-good-pairs/submissions/876940103/)
+ 54 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/smallest-even-multiple/submissions/877549814/)
+ 55 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/878134923/)
+ 56 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/concatenation-of-array/submissions/878699062/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
