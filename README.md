@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 54
+Easy : 61
 
-Medium : 6
+Medium : 9
 
 
 ## Problems
