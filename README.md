@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 61
+Easy : 77
 
-Medium : 9
+Medium : 10
 
 
 ## Problems
@@ -82,4 +82,6 @@ Medium : 9
 73 | [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/adding-spaces-to-a-string/submissions/885204171/)
 74 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/submissions/885776346/)
 75 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-digits/submissions/885796814/)
+76 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/885802038/)
+77 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/885813637/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
