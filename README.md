@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 77
+Easy : 68
 
-Medium : 10
+Medium : 12
 
 
 ## Problems
@@ -84,4 +84,7 @@ Medium : 10
 75 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-digits/submissions/885796814/)
 76 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/885802038/)
 77 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/885813637/)
+78 | [2177. Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/submissions/886390638/)
+79 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/886408932/)
+80 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/big-countries/submissions/886424139/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
