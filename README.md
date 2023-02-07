@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 68
+Easy : 71
 
 Medium : 12
 
@@ -87,4 +87,7 @@ Medium : 12
 78 | [2177. Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/submissions/886390638/)
 79 | [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/886408932/)
 80 | [595. Big Countries](https://leetcode.com/problems/big-countries/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/big-countries/submissions/886424139/)
+81 | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/886425222/)
+82 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-customer-referee/submissions/886428226/)
+83 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/customers-who-never-order/submissions/886432846/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
