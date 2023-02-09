@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 86
+Easy : 91
 
 Medium : 14
 
@@ -107,4 +107,9 @@ Medium : 14
 98 | [607. Sales Person](https://leetcode.com/problems/sales-person/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sales-person/submissions/889476216/)
 99 | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/submissions/890213720/)
 100 | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/daily-leads-and-partners/submissions/890223679/)
+101 | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-followers-count/submissions/890227739/)
+102 | [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/submissions/890730262/)
+103 | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/game-play-analysis-i/submissions/890732977/)
+104 | [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/the-latest-login-in-2020/submissions/890738613/)
+105 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/890740511/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
