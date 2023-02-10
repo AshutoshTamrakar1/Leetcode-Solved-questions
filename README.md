@@ -112,4 +112,8 @@ Medium : 14
 103 | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/game-play-analysis-i/submissions/890732977/)
 104 | [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/the-latest-login-in-2020/submissions/890738613/)
 105 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/890740511/)
+106 | [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/capital-gainloss/submissions/891354598/)
+107 | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/market-analysis-i/submissions/891375411/)
+108 | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/top-travellers/submissions/891364069/)
+109 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/duplicate-emails/submissions/892223592/)
  20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
