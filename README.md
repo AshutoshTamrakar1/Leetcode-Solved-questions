@@ -1,7 +1,9 @@
 # Leetcode-Solved-questions
-Easy : 91
+Easy : 100
 
-Medium : 14
+Medium : 18
+
+Hard : 1
 
 
 ## Problems
@@ -126,4 +128,4 @@ Medium : 14
 117 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/shuffle-the-array/submissions/894938304/)
 118 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/submissions/895503786/)
 119 | [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/arithmetic-subarrays/submissions/896172231/)
- 20 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
+ 120 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/896180701/)
