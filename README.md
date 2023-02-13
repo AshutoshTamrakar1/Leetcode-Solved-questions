@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 100
+Easy : 101
 
-Medium : 18
+Medium : 20
 
 Hard : 1
 
@@ -131,3 +131,4 @@ Hard : 1
  120 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/896180701/)
  121 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/group-anagrams/submissions/896728121/)
  122 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/submissions/897401252/)
+ 123 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sort-colors/submissions/897427311/)
