@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 101
+Easy : 104
 
 Medium : 20
 
@@ -132,3 +132,6 @@ Hard : 1
  121 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/group-anagrams/submissions/896728121/)
  122 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/submissions/897401252/)
  123 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sort-colors/submissions/897427311/)
+124 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/898121789/)
+125 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/next-greater-element-i/submissions/898129231/)
+126 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line/submissions/898132730/)
