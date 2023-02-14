@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 104
+Easy : 105
 
 Medium : 20
 
@@ -135,3 +135,4 @@ Hard : 1
 124 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/submissions/898121789/)
 125 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/next-greater-element-i/submissions/898129231/)
 126 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line/submissions/898132730/)
+127 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/898139011/)
