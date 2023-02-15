@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 105
 
-Medium : 20
+Medium : 21
 
 Hard : 1
 
@@ -136,3 +136,4 @@ Hard : 1
 125 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/next-greater-element-i/submissions/898129231/)
 126 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line/submissions/898132730/)
 127 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/898139011/)
+128 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/898146514/)
