@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 105
+Easy : 108
 
 Medium : 21
 
@@ -137,3 +137,6 @@ Hard : 1
 126 | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line/submissions/898132730/)
 127 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/898139011/)
 128 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/898146514/)
+129 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/898743376/)
+130 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/move-zeroes/submissions/898754807/)
+131 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/richest-customer-wealth/submissions/898757547/)
