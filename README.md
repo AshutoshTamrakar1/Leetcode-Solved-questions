@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 108
+Easy : 110
 
 Medium : 21
 
@@ -140,3 +140,5 @@ Hard : 1
 129 | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/898743376/)
 130 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/move-zeroes/submissions/898754807/)
 131 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/richest-customer-wealth/submissions/898757547/)
+132 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/matrix-diagonal-sum/submissions/899251689/)
+133 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/reshape-the-matrix/submissions/899342843/)
