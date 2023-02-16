@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 110
+Easy : 111
 
 Medium : 21
 
@@ -142,3 +142,4 @@ Hard : 1
 131 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/richest-customer-wealth/submissions/898757547/)
 132 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/matrix-diagonal-sum/submissions/899251689/)
 133 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/reshape-the-matrix/submissions/899342843/)
+134 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-binary/submissions/899350797/)
