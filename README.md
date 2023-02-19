@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 112
+Easy : 118
 
 Medium : 21
 
@@ -145,3 +145,7 @@ Hard : 1
 134 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-binary/submissions/899350797/)
 135 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/add-to-array-form-of-integer/submissions/899354947/)
 136 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-the-difference/submissions/899715648/)
+137 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/901075012/)
+138 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/middle-of-the-linked-list/submissions/901194505/)
+139 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/901198230/)
+140 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sum-of-left-leaves/submissions/901199853/)
