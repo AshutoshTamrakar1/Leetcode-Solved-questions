@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 118
+Easy : 123
 
 Medium : 21
 
@@ -152,3 +152,5 @@ Hard : 1
 141 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/submissions/901481757/)
 142 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/valid-anagram/submissions/901492179/)
 143 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/contains-duplicate/submissions/901496430/)
+144 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/palindrome-number/submissions/903029692/)
+145 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/self-dividing-numbers/submissions/903053404/)
