@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 123
+Easy : 124
 
-Medium : 21
+Medium : 22
 
 Hard : 1
 
@@ -155,3 +155,4 @@ Hard : 1
 144 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/palindrome-number/submissions/903029692/)
 145 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/self-dividing-numbers/submissions/903053404/)
 146 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/904055262/)
+147 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/rotate-array/submissions/904872688/)
