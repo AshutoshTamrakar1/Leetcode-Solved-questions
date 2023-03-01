@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 124
 
-Medium : 22
+Medium : 25
 
 Hard : 1
 
@@ -156,3 +156,6 @@ Hard : 1
 145 | [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/self-dividing-numbers/submissions/903053404/)
 146 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/904055262/)
 147 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/rotate-array/submissions/904872688/)
+148 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/906693586/)
+149 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/submissions/907271921/)
+150 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/the-kth-factor-of-n/submissions/907278806/)
