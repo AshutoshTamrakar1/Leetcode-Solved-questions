@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 125
+Easy : 126
 
 Medium : 25
 
@@ -160,3 +160,4 @@ Hard : 1
 149 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/submissions/907271921/)
 150 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/the-kth-factor-of-n/submissions/907278806/)
 151 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/apply-operations-to-an-array/submissions/907910870/)
+152 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/two-sum/submissions/907914239/)
