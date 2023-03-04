@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 128
+Easy : 129
 
 Medium : 27
 
@@ -165,3 +165,4 @@ Hard : 1
 154 | [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sum-of-unique-elements/submissions/909097107/)
 155 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/majority-element-ii/submissions/909099945/)
 156 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/909098698/)
+157 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/majority-element/submissions/909112939/)
