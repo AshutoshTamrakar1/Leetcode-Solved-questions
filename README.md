@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 129
+Easy : 131
 
 Medium : 27
 
@@ -166,3 +166,5 @@ Hard : 1
 155 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/majority-element-ii/submissions/909099945/)
 156 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/909098698/)
 157 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/majority-element/submissions/909112939/)
+158 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/unique-number-of-occurrences/submissions/909732884/)
+159 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/submissions/909741447/)
