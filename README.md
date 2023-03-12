@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 135
+Easy : 136
 
-Medium : 27
+Medium : 26
 
 Hard : 1
 
@@ -161,7 +161,7 @@ Hard : 1
 150 | [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/the-kth-factor-of-n/submissions/907278806/)
 151 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/apply-operations-to-an-array/submissions/907910870/)
 152 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/two-sum/submissions/912656635/)
-153 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/908521612/)
+153 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/908521612/)
 154 | [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sum-of-unique-elements/submissions/911097357/)
 155 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/majority-element-ii/submissions/909099945/)
 156 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/911592076/)
