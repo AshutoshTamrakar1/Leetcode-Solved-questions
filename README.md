@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 133
+Easy : 135
 
 Medium : 27
 
@@ -170,3 +170,5 @@ Hard : 1
 159 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/submissions/912298483/)
 160 | [2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-number-of-pairs-in-array/submissions/911615189/)
 161 | [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/911628369/)
+162 | [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/two-out-of-three/submissions/913067830/)
+163 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-two-arrays/submissions/914055368/)
