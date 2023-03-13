@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
-Easy : 136
+Easy : 138
 
-Medium : 26
+Medium : 27
 
 Hard : 1
 
@@ -172,3 +172,6 @@ Hard : 1
 161 | [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/911628369/)
 162 | [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/two-out-of-three/submissions/913067830/)
 163 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-two-arrays/submissions/914055368/)
+164 | [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-common-words-with-one-occurrence/submissions/914165859/)
+165 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/submissions/914173416/)
+166 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sort-characters-by-frequency/submissions/914181480/)
