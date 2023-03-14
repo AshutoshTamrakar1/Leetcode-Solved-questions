@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 138
+Easy : 140
 
 Medium : 27
 
@@ -175,3 +175,5 @@ Hard : 1
 164 | [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/count-common-words-with-one-occurrence/submissions/914165859/)
 165 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/submissions/914173416/)
 166 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sort-characters-by-frequency/submissions/914181480/)
+167 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-multiple-arrays/submissions/914795634/)
+168 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/submissions/914824152/)
