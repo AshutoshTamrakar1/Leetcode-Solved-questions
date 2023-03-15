@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 140
 
-Medium : 27
+Medium : 28
 
 Hard : 1
 
@@ -177,3 +177,4 @@ Hard : 1
 166 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sort-characters-by-frequency/submissions/914181480/)
 167 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-multiple-arrays/submissions/914795634/)
 168 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/submissions/914824152/)
+166 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/submissions/915471758/)
