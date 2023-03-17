@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 140
+Easy : 141
 
 Medium : 30
 
@@ -180,3 +180,4 @@ Hard : 1
 169 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/submissions/915471758/)
 170 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/916156230/)
 171 | [443. String Compression](https://leetcode.com/problems/string-compression/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/string-compression/submissions/916161389/)
+172 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/kth-missing-positive-number/submissions/916723697/)
