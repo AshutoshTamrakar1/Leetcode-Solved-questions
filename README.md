@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 141
 
-Medium : 30
+Medium : 31
 
 Hard : 1
 
@@ -181,3 +181,4 @@ Hard : 1
 170 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/916156230/)
 171 | [443. String Compression](https://leetcode.com/problems/string-compression/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/string-compression/submissions/916161389/)
 172 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/kth-missing-positive-number/submissions/916723697/)
+173 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/submissions/917331881/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/tuple-with-same-product/submissions/917331881/)
