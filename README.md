@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 141
 
-Medium : 32
+Medium : 34
 
 Hard : 1
 
@@ -183,3 +183,5 @@ Hard : 1
 172 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/kth-missing-positive-number/submissions/916723697/)
 173 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/submissions/917331881/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/tuple-with-same-product/submissions/917331881/)
 174 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/submissions/918555438/)
+175 | [2150. Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/919273951/)
+176 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/919317617/)
