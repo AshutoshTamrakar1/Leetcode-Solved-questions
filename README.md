@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 141
 
-Medium : 34
+Medium : 36
 
 Hard : 1
 
@@ -185,3 +185,5 @@ Hard : 1
 174 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/submissions/918555438/)
 175 | [2150. Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/submissions/919273951/)
 176 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/919317617/)
+177 | [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/submissions/919957464/)
+178 | [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/replace-elements-in-an-array/submissions/919977334/)
