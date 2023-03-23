@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 141
 
-Medium : 36
+Medium : 37
 
 Hard : 1
 
@@ -187,3 +187,4 @@ Hard : 1
 176 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/submissions/919317617/)
 177 | [1781. Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/submissions/919957464/)
 178 | [2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/replace-elements-in-an-array/submissions/919977334/)
+179 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/920626226/)
