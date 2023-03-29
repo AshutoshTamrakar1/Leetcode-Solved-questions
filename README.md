@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 141
+Easy : 142
 
 Medium : 39
 
@@ -191,3 +191,4 @@ Hard : 2
 180 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/problems/first-missing-positive/submissions/921142908/)
 181 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/submissions/921686862/)
 182 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/count-nice-pairs-in-an-array/submissions/923500795/)
+183 | [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/submissions/924336755/)
