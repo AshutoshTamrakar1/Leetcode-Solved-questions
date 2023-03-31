@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 142
+Easy : 143
 
 Medium : 39
 
@@ -192,3 +192,4 @@ Hard : 2
 181 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/submissions/921686862/)
 182 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/count-nice-pairs-in-an-array/submissions/923500795/)
 183 | [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/submissions/924336755/)
+184 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/925469074/)
