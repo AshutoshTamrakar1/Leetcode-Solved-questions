@@ -1,5 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 143
+Easy : 147
 
 Medium : 39
 
@@ -193,3 +193,7 @@ Hard : 2
 182 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/count-nice-pairs-in-an-array/submissions/923500795/)
 183 | [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists/submissions/924336755/)
 184 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/925469074/)
+185 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/submissions/926087139/)
+186 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/make-the-string-great/submissions/927124192/)
+187 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/backspace-string-compare/submissions/927133138/)
+188 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/valid-parentheses/submissions/927141770/)
