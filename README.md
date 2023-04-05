@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 147
 
-Medium : 39
+Medium : 41
 
 Hard : 2
 
@@ -197,3 +197,5 @@ Hard : 2
 186 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/make-the-string-great/submissions/927124192/)
 187 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/backspace-string-compare/submissions/927133138/)
 188 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/valid-parentheses/submissions/927141770/)
+189 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/928360365/)
+190 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/928425128/)
