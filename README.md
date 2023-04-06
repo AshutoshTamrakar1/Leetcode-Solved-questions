@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 147
 
-Medium : 41
+Medium : 43
 
 Hard : 2
 
@@ -199,3 +199,5 @@ Hard : 2
 188 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/valid-parentheses/submissions/927141770/)
 189 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/928360365/)
 190 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/928425128/)
+191 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/validate-stack-sequences/submissions/928913548/)
+192 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/daily-temperatures/submissions/928976780/)
