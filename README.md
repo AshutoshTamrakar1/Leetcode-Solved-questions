@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 147
 
-Medium : 43
+Medium : 44
 
 Hard : 2
 
@@ -201,3 +201,4 @@ Hard : 2
 190 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/928425128/)
 191 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/validate-stack-sequences/submissions/928913548/)
 192 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/daily-temperatures/submissions/928976780/)
+193 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/submissions/929556240/)
