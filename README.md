@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 147
 
-Medium : 44
+Medium : 47
 
 Hard : 2
 
@@ -202,3 +202,6 @@ Hard : 2
 191 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/validate-stack-sequences/submissions/928913548/)
 192 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/daily-temperatures/submissions/928976780/)
 193 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/submissions/929556240/)
+194 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/removing-stars-from-a-string/submissions/929972835/)
+195 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/930666709/)
+196 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/remove-duplicate-letters/submissions/930669318/)
