@@ -1,7 +1,7 @@
 # Leetcode-Solved-questions
 Easy : 147
 
-Medium : 47
+Medium : 48
 
 Hard : 2
 
@@ -205,3 +205,4 @@ Hard : 2
 194 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/removing-stars-from-a-string/submissions/929972835/)
 195 | [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/930666709/)
 196 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/remove-duplicate-letters/submissions/930669318/)
+197 | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/maximum-width-ramp/submissions/931398793/)
