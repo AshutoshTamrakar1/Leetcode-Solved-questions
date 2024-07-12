@@ -1,9 +1,5 @@
 # Leetcode-Solved-questions
-Easy : 147
 
-Medium : 48
-
-Hard : 2
 
 
 ## Problems
@@ -207,3 +203,4 @@ Hard : 2
 196 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/remove-duplicate-letters/submissions/930669318/)
 197 | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/maximum-width-ramp/submissions/931398793/)
 198 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/submissions/detail/1317802814/)
+199 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1318565004?envType=daily-question&envId=2024-07-02)
