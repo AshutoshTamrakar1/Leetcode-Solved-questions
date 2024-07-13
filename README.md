@@ -204,3 +204,4 @@
 197 | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/problems/maximum-width-ramp/submissions/931398793/)
 198 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/submissions/detail/1317802814/)
 199 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1318565004?envType=daily-question&envId=2024-07-02)
+200 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/pass-the-pillow/submissions/1319444957/)
