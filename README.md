@@ -222,3 +222,4 @@
 214 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-the-highest-altitude/submissions/1352168090/)
 215 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/problems/find-pivot-index/submissions/1352309903/)
 216 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Link](https://leetcode.com/submissions/detail/1353266705/)
+217 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1354247408/)
