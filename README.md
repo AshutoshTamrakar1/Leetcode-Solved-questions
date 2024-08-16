@@ -225,3 +225,4 @@
 217 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1354247408/)
 218 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1355276949/)
 219 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1356820715/)
+220 | [394. Decode String](https://leetcode.com/problems/decode-string/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1357488324/)
