@@ -227,3 +227,4 @@
 220 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1356820715/)
 221 | [394. Decode String](https://leetcode.com/problems/decode-string/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1357488324/)
 222 | [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1360478509/)
+223 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1366701408/)
