@@ -231,3 +231,4 @@
 224 | [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1369842436/)
 225 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1369861770/)
 226 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/submissions/detail/1373200322/)
+227 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/submissions/detail/1374566424/)
