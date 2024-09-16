@@ -234,3 +234,4 @@
 227 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/submissions/detail/1374566424/)
 228 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | ![hard](https://img.shields.io/badge/-Hard-red) |  [Link](https://leetcode.com/submissions/detail/1375670084/)
 229 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1384004068/)
+230 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1392394897/)
