@@ -236,3 +236,4 @@
 229 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1384004068/)
 230 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1392394897/)
 231 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1393159658/)
+232 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1393179433/)
