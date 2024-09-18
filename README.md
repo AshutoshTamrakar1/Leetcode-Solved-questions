@@ -237,3 +237,4 @@
 230 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1392394897/)
 231 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1393159658/)
 232 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1393179433/)
+233 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1394553181/)
