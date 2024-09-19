@@ -239,3 +239,4 @@
 232 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1393179433/)
 233 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1394553181/)
 234 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | ![easy](https://img.shields.io/badge/-Easy-green)  |  [Link](https://leetcode.com/submissions/detail/1395335048/)
+235 | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Link](https://leetcode.com/submissions/detail/1395389642/)
